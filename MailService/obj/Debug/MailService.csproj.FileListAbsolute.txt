@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\MailService\MailService\bin\Debug\MailService.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\MailService\MailService\bin\Debug\MailService.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\MailService\MailService\bin\Debug\MailService.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\MailService\MailService\obj\Debug\MailService.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\MailService\MailService\obj\Debug\MailService.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\MailService\MailService\obj\Debug\MailService.pdb
